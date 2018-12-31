@@ -1,0 +1,23 @@
+{
+  "name": "libs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dony",
+  "license": "ISC",
+  "dependencies": {
+    "@storybook/angular": "^4.1.4",
+    "@storybook/cli": "^4.1.4",
+    "@storybook/react": "^4.1.4",
+    "@types/signalr": "^2.2.35",
+    "docz": "^0.13.7",
+    "lerna": "^3.8.0",
+    "signalr": "^2.4.0",
+    "storybook": "^1.0.0",
+    "typedoc": "^0.13.0",
+    "typescript": "^3.2.2"
+  }
+}
